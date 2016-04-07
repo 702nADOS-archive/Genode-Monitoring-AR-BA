@@ -1,0 +1,3 @@
+TARGET = sensordir
+SRC_CC += sensordir.cc sensor.cc
+LIBS += base stdcxx
